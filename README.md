@@ -1,2 +1,2 @@
 # detroit-police-complaints
-Predicting and assessing outcomes of complaints against Detroit Police Department officers by identity markers.
+This project predicts complaint the outcome of complaints against Detroit Police Department officers by complainant and police officer identity markers.
